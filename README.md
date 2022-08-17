@@ -1,4 +1,4 @@
-Sou um estudante de web-development para me tornar em breve um desenvolvedor Front-End. aqui você verá alguns projetos meus, treinos e quem sabe curiosades sobre eles que eu esteja afim de botar
+Sou um estudante auto-didata de web-development para me tornar em breve um desenvolvedor Front-End. aqui você verá alguns projetos meus, treinos e quem sabe curiosades sobre eles que eu esteja afim de botar
 
 
 
