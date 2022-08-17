@@ -1,5 +1,9 @@
-Sou um estudante de web-development para me tornar em breve um desenvolvedor web. aqui você verá alguns projetos meus e quem sabe curiosades sobre eles que eu esteja afim de botar
+Sou um estudante de web-development para me tornar em breve um desenvolvedor Front-End. aqui você verá alguns projetos meus, treinos e quem sabe curiosades sobre eles que eu esteja afim de botar
 
 
 
-o "Xylophone" é meu primeiro projeto publicado, mas não foi a minha primeira tentativa
+-> O "Xylophone" é meu primeiro projeto publicado, mas não foi a minha primeira tentativa
+  - Quando tentei fazer a parte de Script ainda nao sabia usar o "if" então tudo que essa belezura faz eu estava tentando fazer na unha. comecei definindo cada variável para cada tecla apertada " A, S, D, F, H, J, K, L ", definindo event listeners para cada tecla apertada e estava tentando colocar o som que iria disparar dentro do próprio J.S, e para a suspresa de 0 pessoas: não funcionou. Então eu descobri que devia colocar o som no proprio HTML, fiz isso, e advinha, o código no JS ainda não disparava sons. Então decidi procurar como disparar sons usando o JS e cai num video de um cara fazendo um xylophone bem simples, e na thumb do vídeo o candango usou meia duzia de texto e o código estava funcional, fui ver o vídeo porque estava desacreditado que o famoso IF servia para aquilo, vi uns vídeos sobre o IFno YouTube mesmo, fiquei mais uns 20 minutos quebrando cabeça pq esqueci de fechar com ' e funcionou, MAS AINDA SIM TAVA BUGADO! o som subsequente só funcionava depois que o anterior tocasse por completo, dai em mais uma busca de 5 minutos descobri que existia o comando "currentTime". e voi-là. deu tudo certo.
+  E por último fiz a parte das teclas tambem serém funcionais que foi basicamente um CTRL-C CTRL-V do que tinha feito. Usei os botões para disparem comandos como se as teclas do teclado tivessem sido apertadas. Não sei se existe uma forma mais excelente de se fazer isso, mas é como na minha cabeça fez sentido e deu certo XD!  
+
+- A calculadora é o meu primeiro projeto com Java Script, mas na epoca eu nao tinha GitHub então não pucliquei quando o fiz, mesmo sendo algo bem simples me levou bons 20 minutos.
