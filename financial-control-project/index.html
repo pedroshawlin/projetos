@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en/pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planejamento Financeiro</title>
+    <link rel="stylesheet" href="/style.css">
+    <script src="/script.js"></script>
+</head>
+<body>
+    <header> Planejamento Financeiro</header>
+    <h1>Contas</h1>
+    <div class="main-container">
+        <div id="table">
+            <div id="top-container">
+
+                <div class="entradas">
+                    <input type="text" name="brute-income" id="ganho1" value="" placeholder="Salário Bruto" class="input-user"> 
+    
+                    
+                    <input type="text" name="dizimo" id="bill1" value="" placeholder="Dízimo" class="input-user"> 
+                
+                    
+                    <input type="text" name="celular" id="bill2" value="" placeholder="Parcela celular" class="input-user"> 
+    
+                    
+                    <input type="text" name="liquid" id="liquidIncomeTXT" value="" placeholder="Salário Líquido" class="input-user">
+                </div>
+    
+               
+               
+                <div class="despesas">
+                    <input type="text" name="rent" id="gasto1" value="" placeholder="Rent " class="input-user">
+                   
+                    <input type="text" name="water" id="gasto2" value="" placeholder=" Water " class="input-user"> 
+                          
+                    <input type="text" name="energy" id="gasto3" value="" placeholder="Energy" class="input-user"> 
+                         
+                    <input type="text" name="total" id="gastoTotal" value="" placeholder="total de gastos" class="input-user"> 
+                </div>
+
+                
+                
+            </div>
+
+            <div id="calc">
+                <input id="calc-button" type="button" value="Calcular" onclick="calcular()"> 
+            </div>
+
+            <div id="bottom-container">
+                    <h1>Seu resultado é:</h1>
+                    <div id="box-result">
+                        <input id="result-text" type="text" name="" id="">
+                    </div>
+            </div>
+        
+        </div>
+    </div>
+</body>
+</html>
